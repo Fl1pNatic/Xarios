@@ -6,3 +6,5 @@ Get XariO's RIGHT NOW in YOUR local supermarket or buy them online at xarios-cer
 "it extends your life!" <br>
 <br>
 XariO's! The best ~~and last~~ cereal YOU will taste ever!!
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" rel="Buy now" width="500" height="200">![Buy now UwU!](buy.png)</a>
